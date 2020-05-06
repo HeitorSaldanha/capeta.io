@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/capeta.io/static/css/main.5374fe50.chunk.css",
+    "main.js": "/capeta.io/static/js/main.993dd1e7.chunk.js",
+    "main.js.map": "/capeta.io/static/js/main.993dd1e7.chunk.js.map",
+    "runtime-main.js": "/capeta.io/static/js/runtime-main.23071c99.js",
+    "runtime-main.js.map": "/capeta.io/static/js/runtime-main.23071c99.js.map",
+    "static/css/2.de424728.chunk.css": "/capeta.io/static/css/2.de424728.chunk.css",
+    "static/js/2.120d83ac.chunk.js": "/capeta.io/static/js/2.120d83ac.chunk.js",
+    "static/js/2.120d83ac.chunk.js.map": "/capeta.io/static/js/2.120d83ac.chunk.js.map",
+    "index.html": "/capeta.io/index.html",
+    "precache-manifest.cc6e560beff3f90596d78768975364b1.js": "/capeta.io/precache-manifest.cc6e560beff3f90596d78768975364b1.js",
+    "service-worker.js": "/capeta.io/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/capeta.io/static/css/2.de424728.chunk.css.map",
+    "static/css/main.5374fe50.chunk.css.map": "/capeta.io/static/css/main.5374fe50.chunk.css.map",
+    "static/js/2.120d83ac.chunk.js.LICENSE.txt": "/capeta.io/static/js/2.120d83ac.chunk.js.LICENSE.txt",
+    "static/media/pentagram.svg": "/capeta.io/static/media/pentagram.67d7ad84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23071c99.js",
+    "static/css/2.de424728.chunk.css",
+    "static/js/2.120d83ac.chunk.js",
+    "static/css/main.5374fe50.chunk.css",
+    "static/js/main.993dd1e7.chunk.js"
+  ]
+}
